@@ -1,0 +1,1 @@
+# Atualização para Vercel
